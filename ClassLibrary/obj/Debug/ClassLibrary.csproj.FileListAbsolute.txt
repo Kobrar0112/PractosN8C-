@@ -1,0 +1,6 @@
+D:\Учёба\C#\2-ой Семестр\Практическая N8\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Учёба\C#\2-ой Семестр\Практическая N8\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Учёба\C#\2-ой Семестр\Практическая N8\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\Учёба\C#\2-ой Семестр\Практическая N8\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\2-ой Семестр\Практическая N8\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Учёба\C#\2-ой Семестр\Практическая N8\ClassLibrary\obj\Debug\ClassLibrary.pdb

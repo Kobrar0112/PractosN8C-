@@ -1,0 +1,13 @@
+D:\Учёба\C#\2-ой Семестр\Практическая N8\LocalizationLibrary\bin\Debug\LocalizationLibrary.dll
+D:\Учёба\C#\2-ой Семестр\Практическая N8\LocalizationLibrary\bin\Debug\LocalizationLibrary.pdb
+D:\Учёба\C#\2-ой Семестр\Практическая N8\LocalizationLibrary\obj\Debug\LocalizationLibrary.csproj.AssemblyReference.cache
+D:\Учёба\C#\2-ой Семестр\Практическая N8\LocalizationLibrary\obj\Debug\DictionaryFull.baml
+D:\Учёба\C#\2-ой Семестр\Практическая N8\LocalizationLibrary\obj\Debug\Themes\Strings.en.baml
+D:\Учёба\C#\2-ой Семестр\Практическая N8\LocalizationLibrary\obj\Debug\Themes\Strings.ru.baml
+D:\Учёба\C#\2-ой Семестр\Практическая N8\LocalizationLibrary\obj\Debug\LocalizationLibrary_MarkupCompile.cache
+D:\Учёба\C#\2-ой Семестр\Практическая N8\LocalizationLibrary\obj\Debug\LocalizationLibrary.g.resources
+D:\Учёба\C#\2-ой Семестр\Практическая N8\LocalizationLibrary\obj\Debug\LocalizationLibrary.Properties.Resources.resources
+D:\Учёба\C#\2-ой Семестр\Практическая N8\LocalizationLibrary\obj\Debug\LocalizationLibrary.csproj.GenerateResource.cache
+D:\Учёба\C#\2-ой Семестр\Практическая N8\LocalizationLibrary\obj\Debug\LocalizationLibrary.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\2-ой Семестр\Практическая N8\LocalizationLibrary\obj\Debug\LocalizationLibrary.dll
+D:\Учёба\C#\2-ой Семестр\Практическая N8\LocalizationLibrary\obj\Debug\LocalizationLibrary.pdb

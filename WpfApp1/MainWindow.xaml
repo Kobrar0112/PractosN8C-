@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="{DynamicResource SerializeButtonText}" Width="100" Height="30" Margin="10" Click="SerializeButton_Click"/>
+            <Button Content="{DynamicResource DeserializeButtonText}" Width="100" Height="30" Margin="10" Click="DeserializeButton_Click"/>
+            <Button Content="English" Width="100" Height="30" Margin="10" Click="ApplyEnglishLanguage_Click"/>
+            <Button Content="Русский" Width="100" Height="30" Margin="10" Click="ApplyRussianLanguage_Click"/>
+        </StackPanel>
+
+        <Grid Grid.Row="1">
+            <TextBox x:Name="TextBox1" Width="300" Height="30" Margin="20,20,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            <TextBox x:Name="TextBox2" Width="300" Height="30" Margin="20,70,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        </Grid>
+    </Grid>
+</Window>
